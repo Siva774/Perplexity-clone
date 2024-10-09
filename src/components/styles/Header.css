@@ -1,0 +1,37 @@
+/* Header.css */
+.header {
+    width: 250px; /* Matches the width in App.css */
+    background-color: #f0f0f0;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Same shadow as before */
+  }
+  
+  .header ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .header li {
+    margin-bottom: 15px;
+  }
+  
+  .header li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .header li a:hover {
+    color: #007bff; /* Hover color effect */
+  }
+
+  .Signup{
+    background-color: rgb(8, 129, 109);
+    border-radius: 20px;
+    font-family: bold;
+    padding: 17px;
+    width: 140px;
+    font-size: 23px;
+    text-align: center;
+  }
+  
